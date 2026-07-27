@@ -30,5 +30,10 @@ Data Analytics and Visualisations
 
 [Data analysis and visualisation_Russia_ Ukraine_The War Analysis and Visualization_Project Report.docx](https://github.com/user-attachments/files/30418257/Data.analysis.and.visualisation_Russia_.Ukraine_The.War.Analysis.and.Visualization_Project.Report.docx)
 
+Applied Machine Learning and Data Mining 
+
+[UP2547859 CT0385389 AMLDM Coursework 1 Presentation.pptx](https://github.com/user-attachments/files/30418444/UP2547859.CT0385389.AMLDM.Coursework.1.Presentation.pptx)
+
+
 
 
