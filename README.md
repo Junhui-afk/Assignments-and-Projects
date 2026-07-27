@@ -10,3 +10,9 @@ HDB Resale Market Dashboard |  img width="933" height="442" alt="HDB Resale Dash
 - Designed interactive visualisations allowing users to filter by town, flat type, floor area, and remaining lease
 - Identified key price drivers including location, flat age, and floor level through exploratory data analysis
 - Technologies: Power BI, Python (Pandas, NumPy), SQL, Excel, data.gov.sg API
+
+
+Data Harvesting (Web Scraping)
+
+[Data Harvesting (Web Scraping).pptx](https://github.com/user-attachments/files/30417237/Data.Harvesting.Web.Scraping.pptx)
+[Data Harvesting  tech360tv.pdf](https://github.com/user-attachments/files/30417222/Data.Harvesting.tech360tv.pdf)
