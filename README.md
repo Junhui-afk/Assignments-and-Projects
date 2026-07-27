@@ -32,7 +32,7 @@ Data Analytics and Visualisations
 
 Applied Machine Learning and Data Mining 
 
-[UP2547859 CT0385389 AMLDM Coursework 1 Presentation.pptx](https://github.com/user-attachments/files/30418444/UP2547859.CT0385389.AMLDM.Coursework.1.Presentation.pptx)
+[AMLDM Coursework 1 Presentation.pptx](https://github.com/user-attachments/files/30418444/UP2547859.CT0385389.AMLDM.Coursework.1.Presentation.pptx)
 
 
 
