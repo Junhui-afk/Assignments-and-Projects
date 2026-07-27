@@ -1,4 +1,4 @@
-# Assignments-and-Projects
+[Data science essential _Project_Report.docx](https://github.com/user-attachments/files/30418104/Data.science.essential._Project_Report.docx)# Assignments-and-Projects
 Data analysis project
 
 PROJECTS
@@ -17,3 +17,18 @@ Data Harvesting (Web Scraping)
 [Data Harvesting (Web Scraping).pptx](https://github.com/user-attachments/files/30417237/Data.Harvesting.Web.Scraping.pptx)
 
 [Data Harvesting  tech360tv.pdf](https://github.com/user-attachments/files/30417222/Data.Harvesting.tech360tv.pdf)
+
+Data Science Essentials
+
+[ACDS_DataScienceEssential__Project_Brief_Question.pdf](https://github.com/user-attachments/files/30418049/ACDS_DataScienceEssential__Project_Brief_Question.pdf)
+
+[Data science essential _Project_Report.docx](https://github.com/user-attachments/files/30418073/Data.science.essential._Project_Report.docx)
+
+Data Analytics and Visualisations
+
+[ACDS_DataAnalyticsVisualisations__Project_Brief_ Question.pdf](https://github.com/user-attachments/files/30418253/ACDS_DataAnalyticsVisualisations__Project_Brief_.Question.pdf)
+
+[Data analysis and visualisation_Russia_ Ukraine_The War Analysis and Visualization_Project Report.docx](https://github.com/user-attachments/files/30418257/Data.analysis.and.visualisation_Russia_.Ukraine_The.War.Analysis.and.Visualization_Project.Report.docx)
+
+
+
