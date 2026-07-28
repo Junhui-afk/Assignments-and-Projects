@@ -30,15 +30,15 @@ Data Analytics and Visualisations (Russia_ Ukraine: The War Analysis and Visuali
 
 [Data analysis and visualisation_Russia_ Ukraine_The War Analysis and Visualization_Project Report.docx](https://github.com/user-attachments/files/30418257/Data.analysis.and.visualisation_Russia_.Ukraine_The.War.Analysis.and.Visualization_Project.Report.docx)
 
-Applied Machine Learning and Data Mining 
+Applied Machine Learning and Data Mining (Analysis of Singapore HDB Resale Flat Prices (2017–2025)-Understanding with Prediction of Price Trends and Key Factors Influencing Public Housing Resale Values)
 
 [AMLDM Coursework 1 Presentation.pptx](https://github.com/user-attachments/files/30418444/UP2547859.CT0385389.AMLDM.Coursework.1.Presentation.pptx)
 
-Big Data
+Big Data (Movie Recommendation System)
 
 [Big Data.ipynb](https://github.com/user-attachments/files/30443282/UP2547859.ipynb)
 
-[Big Data_Report.pdf](https://github.com/user-attachments/files/30443296/UP2547859_Report.pdf)
+[Big Data_Coursework_Report.pdf](https://github.com/user-attachments/files/30443296/UP2547859_Report.pdf)
 
 
 
