@@ -18,13 +18,13 @@ Data Harvesting (Web Scraping-Agenda: Access different laptop webpage to collect
 
 [Data Harvesting  tech360tv.pdf](https://github.com/user-attachments/files/30417222/Data.Harvesting.tech360tv.pdf)
 
-Data Science Essentials
+Data Science Essentials (Train, Test and Publish a Regression Model using Azure Machine Learning Platform)
 
 [ACDS_DataScienceEssential__Project_Brief_Question.pdf](https://github.com/user-attachments/files/30418049/ACDS_DataScienceEssential__Project_Brief_Question.pdf)
 
 [Data science essential _Project_Report.docx](https://github.com/user-attachments/files/30418073/Data.science.essential._Project_Report.docx)
 
-Data Analytics and Visualisations
+Data Analytics and Visualisations (Russia_ Ukraine: The War Analysis and Visualization)
 
 [ACDS_DataAnalyticsVisualisations__Project_Brief_ Question.pdf](https://github.com/user-attachments/files/30418253/ACDS_DataAnalyticsVisualisations__Project_Brief_.Question.pdf)
 
