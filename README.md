@@ -12,7 +12,7 @@ HDB Resale Market Dashboard |  img width="933" height="442" alt="HDB Resale Dash
 - Technologies: Power BI, Python (Pandas, NumPy), SQL, Excel, data.gov.sg API
 
 
-Data Harvesting (Web Scraping)
+Data Harvesting (Web Scraping-Agenda: Access different laptop webpage to collect laptop specifications from various laptop brands in Singapore)
 
 [Data Harvesting (Web Scraping).pptx](https://github.com/user-attachments/files/30417237/Data.Harvesting.Web.Scraping.pptx)
 
