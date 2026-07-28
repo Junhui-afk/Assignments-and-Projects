@@ -34,6 +34,13 @@ Applied Machine Learning and Data Mining
 
 [AMLDM Coursework 1 Presentation.pptx](https://github.com/user-attachments/files/30418444/UP2547859.CT0385389.AMLDM.Coursework.1.Presentation.pptx)
 
+Big Data
+
+[Big Data.ipynb](https://github.com/user-attachments/files/30443282/UP2547859.ipynb)
+
+[Big Data_Report.pdf](https://github.com/user-attachments/files/30443296/UP2547859_Report.pdf)
+
+
 
 
 
