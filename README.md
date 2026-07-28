@@ -40,6 +40,22 @@ Big Data (Movie Recommendation System)
 
 [Big Data_Coursework_Report.pdf](https://github.com/user-attachments/files/30443296/UP2547859_Report.pdf)
 
+Software Engineering Theory and Practice - (HR Online Leave Application (School Project))
+
+- Developed a web-based HR leave system with approval workflow.
+- Features: Apply/cancel/edit leave requests, HOD approval, notifications.
+- Tools and Technologies: 
+The following programming languages are used for their suitability in model view controller design patterns: PHP, HTML CSS and JavaScript. 
+*PHP on the XAMPP package that bundles Apache, MariaDB (a fork of MySQL), PHP, and Perl. The PHP language was chosen as it is relatively easy to learn and accommodates the team’s need to do quick prototyping.
+
+Link : https://drive.google.com/file/d/17ATj5XMtClFV4HDnNG3gO1otkLmP1dfR/view?usp=sharing%20%20
+
+
+
+
+
+
+
 
 
 
