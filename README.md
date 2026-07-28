@@ -1,4 +1,4 @@
-[Data science essential _Project_Report.docx](https://github.com/user-attachments/files/30418104/Data.science.essential._Project_Report.docx)# Assignments-and-Projects
+# Assignments-and-Projects
 Data analysis project
 
 PROJECTS
